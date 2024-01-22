@@ -9,3 +9,4 @@ bike.png filter=lfs diff=lfs merge=lfs -text
 grid_world_value.png filter=lfs diff=lfs merge=lfs -text
 tree.jpeg filter=lfs diff=lfs merge=lfs -text
 grid_world_value2.png filter=lfs diff=lfs merge=lfs -text
+tree_graph.png filter=lfs diff=lfs merge=lfs -text
